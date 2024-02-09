@@ -5,7 +5,7 @@ This project delves into the renowned Titanic passenger dataset, using explorato
 
 # Key Highlights:
 
-** In-Depth EDA:**
+# In-Depth EDA:
 - Visualize key features like class, age, gender, embarkation port, and more.
 - Uncover hidden patterns and relationships within the data.
 - Handle missing values.
@@ -14,27 +14,26 @@ This project delves into the renowned Titanic passenger dataset, using explorato
 - 🪄 Transform categorical features for machine learning.
 - 🩹 Handle missing values appropriately (e.g., imputation, encoding).
 
-** Logistic Regression for Survival Prediction:**
+# Logistic Regression for Survival Prediction:
 Build a robust model to predict passenger survival based on key features.
 Evaluate performance with accuracy, precision, recall, and AUC-ROC.
 Interpret model coefficients to understand feature impact on survival.
 
-** Visualizations:**
+# Visualizations:
 ️ Employ compelling visuals (histograms, boxplots, heatmaps, scatter plots) to communicate findings effectively.
 Create clear and impactful insights for various audiences.
 
-** Clear & Concise Documentation:**
+# Clear & Concise Documentation:
 Well-structured code with detailed comments for each step.
 Comprehensive README outlining project purpose, methodology, results, and conclusions.
 ️
-** Further Exploration: **
+# Further Exploration:
 Experiment with different feature engineering techniques.
 Explore other machine learning algorithms (e.g., decision trees, random forests).
 Evaluate model performance using cross-validation.
 Ready to embark on this data-driven journey?
 
-Prerequisites:
-
+# Prerequisites:
 Python (libraries like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Additional libraries as needed (e.g., TensorFlow, PyTorch for advanced modeling)
 
